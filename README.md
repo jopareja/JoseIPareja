@@ -7,5 +7,3 @@
 :speech_balloon: I'm fluent in English (C2), and Spanish (Native).
 
 :sparkles: In the long term, I would like to develop Android apps with VR/AR features.
-
-![](https://komarev.com/ghpvc/?username=JoseIPareja)
