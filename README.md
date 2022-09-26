@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Jose
 
-:eight_spoked_asterisk: I'm an aspiring android developer (KOTLIN & JAVA) who is obsessed with CLEAN architecture.
+:eight_spoked_asterisk: I'm an android developer (KOTLIN), who tries to keep in touch with MAD's skills and all the latest recommendations from Google.
 
 :chart_with_upwards_trend: I have a background in Business/Finance which gave me business optimization abilities.
 
